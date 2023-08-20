@@ -1,0 +1,33 @@
+.main_container {
+    background-color: #323f4b;
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px;
+    padding:2px;
+    margin: 2px;
+    
+  }
+  .sub-container{
+    background-color: #ffffff;
+    width: 400px;
+    height:450px;    
+    padding: 5px;
+    margin: 3px;
+    border-radius: 3px;
+  }
+  .Main-heading{
+    color:blue ;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 200px;
+  }
+  .heading{
+    color:#323f4b ;
+    font-size: 18px;
+
+    margin: 3px;
+  }
+  

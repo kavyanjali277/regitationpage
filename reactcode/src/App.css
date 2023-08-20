@@ -1,0 +1,15 @@
+.main_container {
+  background-color: #323f4b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.sub-container{
+  background-color: #ffffff;
+  padding: 5px;
+  border:2px;
+
+}
+ 
